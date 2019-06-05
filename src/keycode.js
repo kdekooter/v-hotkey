@@ -63,6 +63,7 @@ export const codes = {
   // 'add': 43,
   'insert': 45,
   'delete': 46,
+  '?': 63,
   'command': 91,
   'left command': 91,
   'right command': 93,
